@@ -173,11 +173,11 @@ body
 
 
   #wrapper > .testimonials_box > .testmonial_1 > .testimonial_container > .testmonial_profile > .testmonial_user >
-  .testmonial_user_info > h3,
+  .testmonial_user_info > h2,
   #wrapper > .testimonials_box > .testmonial_2 > .testimonial_container > .testmonial_profile > .testmonial_user >
-  .testmonial_user_info > h3,
+  .testmonial_user_info > h2,
   #wrapper > .testimonials_box > .testmonial_5 > .testimonial_container > .testmonial_profile > .testmonial_user >
-  .testmonial_user_info > h3
+  .testmonial_user_info > h2
   {
     color: var(--White);
     font-size: 16px;
@@ -186,9 +186,9 @@ body
 
 
   #wrapper > .testimonials_box > .testmonial_3 > .testimonial_container > .testmonial_profile > .testmonial_user >
-  .testmonial_user_info > h3,
+  .testmonial_user_info > h2,
   #wrapper > .testimonials_box > .testmonial_4 > .testimonial_container > .testmonial_profile > .testmonial_user >
-  .testmonial_user_info > h3
+  .testmonial_user_info > h2
   
   {
     color: var(--Very_dark_blackish_blue);
